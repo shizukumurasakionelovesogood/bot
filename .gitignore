@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+knowledge_base.backup_*.json
+opendota_openapi.json
